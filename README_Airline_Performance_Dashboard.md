@@ -24,7 +24,7 @@ Dashboard ini menyajikan ringkasan performa maskapai melalui visualisasi KPI, ko
 
 ![Airline Performance Dashboard](images/airline_performance_dashboard.png)
 
-**Buka di Tableau Public:** *(Tambahkan link Tableau Public setelah dashboard dipublikasikan.)*
+**Buka di Tableau Public:** *(https://public.tableau.com/shared/Y3R925DMP?:display_count=n&:origin=viz_share_link)*
 
 ## Insight & Recommendation
 
