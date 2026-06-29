@@ -22,7 +22,7 @@ Sebelum proses visualisasi dilakukan, dataset dibersihkan menggunakan Microsoft 
 
 Dashboard ini menyajikan ringkasan performa maskapai melalui visualisasi KPI, komposisi penyebab delay, peringkat maskapai, tren keterlambatan bulanan, peta persebaran bandara, serta Top 10 Airport dengan rata-rata arrival delay tertinggi.
 
-![Airline Performance Dashboard](images/airline_performance_dashboard.png)
+![Airline Performance Dashboard](https://github.com/Rahimahhhh/Airline-Performance-Dashboard/blob/ba8c010528a24be6575bdb712b4e8ea6abffe3f2/image/imagesairline_performance_dashboard.png.png)
 
 **Buka di Tableau Public:** *(https://public.tableau.com/shared/Y3R925DMP?:display_count=n&:origin=viz_share_link)*
 
